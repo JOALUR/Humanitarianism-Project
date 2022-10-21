@@ -1,5 +1,12 @@
 //How was your day?
 //Thats good make sure you take your daily medication?
-//Remember that your staying with your children.
+//What's your plan for today?
+//How is your family?
+//What did you eat today?
+//If you have no plans today read from a book.
 //
 a = input("How was your day?")
+a = input("What did you eat today?")
+Variable =input("How is your family?")
+if variable == ("They are Good."):
+    print("Glad they are good.")
