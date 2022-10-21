@@ -1,13 +1,41 @@
-Variable = int(input("What time is it? ")
-if variable == ("")
-print("OK")
-
-
 //How was your day?
-//Thats good make sure you take your daily medication?
+//Did you take your daily medication?
 //What's your plan for today?
 //How is your family?
 //What did you eat today?
 //If you have no plans today read from a book.
-//
-a = input("How was your day?")
+//Did you eat breakfast?
+//Did you eat lunch?
+//Did you eat dinner?
+//What have you done today?
+//When are you sleeping today?
+Variable = input("Did you have a good day?")
+if variable == ("Yes")
+    print("I'm glad you had a good day.")
+elif variable == ("No")
+    print("I'm sorry you had a bad day. I hope it gets better.")
+Variable = input("Did you eat breakfast today?")
+if variable == ("Yes")
+    print("Good, starting your day off with a meal is important.")
+elif variable == ("No")
+    print("You should eat breakfast. It is one of the most important meals.")
+Variable = input("Is your family doing well")
+if variable == ("Yes")
+    print("Glad they are doing well.")
+elif variable == ("No")
+    print("I'm sorry to hear that. I hope it gets better.")
+Variable = input("Did you take your daily medication?")
+if variable == ("Yes")
+    print("Good")
+elif variable == ("No")
+    print("You should")
+Variable = input("Did you eat lunch?")
+if variable == ("Yes")
+    print("Im glad you did. It's one of the three important meals.")
+elif variable == ("No")
+    print("You should eat lunch, it's an important meal.")
+Variable = input("Did you eat dinner?")
+if variable == ("Yes.")
+    print("That's good. Make sure it was well balanced.")
+elif variable == ("No.")
+    print("You should eat dinner, it is one of the three important meals.")
