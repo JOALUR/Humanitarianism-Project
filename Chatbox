@@ -8,3 +8,93 @@ print("OK")
 //Remember that your staying with your children.
 //
 a = input("How was your day?")
+Variable = input("Did you have a good day?")
+if Variable == "Yes":
+    print("I'm glad you had a good day.")
+elif Variable == "No":
+    print("I'm sorry you had a bad day. I hope it gets better.")
+Variable = input("Did you eat breakfast today?")
+if Variable == "Yes":
+    print("Good, starting your day off with a meal is important.")
+elif Variable == "No":
+    print("You should eat breakfast. It is one of the most important meals.")
+Variable = input("Is your family doing well")
+if Variable == "Yes":
+    print("Glad they are doing well.")
+elif Variable == "No":
+    print("I'm sorry to hear that. I hope it gets better.")
+Variable = input("Did you take your daily medication?")
+if Variable == "Yes":
+    print("Good")
+elif Variable == "No":
+    print("You should")
+Variable = input("Did you eat lunch?")
+if Variable == "Yes":
+    print("Im glad you did. It's one of the three important meals.")
+elif Variable == "No":
+    print("You should eat lunch, it's an important meal.")
+Variable = input("Did you eat dinner?")
+if Variable == "Yes":
+    print("That's good. Make sure it was well balanced.")
+elif Variable == "No":
+    print("You should eat dinner, it is one of the three important meals.")
+Variable = input("Did you watch TV today?")
+if Variable == "Yes":
+    print("Thats good, what show did you watch.")
+elif Variable == "No":
+    print("Did you do something else instead?")
+Variable = input("Did you spend time with family today?")
+if Variable == "Yes":
+    print("Sounds good, how was it.")
+elif Variable == "No":
+    print("Why not? Spending time with family can make great memories.")
+Variable = input("Have you read today?")
+if Variable == "Yes":
+    print("That's good, how long?")
+elif Variable == "No":
+    print("Why not? It's good to get at least 10 minutes of reading a day.")
+Variable = input("Did you play any games?")
+if Variable == "Yes":
+    print("What games? I hope you won!")
+elif Variable == "No":
+    print("Why not? Games are an enjoyable way to have fun and pass time.")
+Variable = input("Do you have a pet?")
+if Variable == "Yes":
+    print("What type of animal?! I love cats and dogs.")
+elif Variable == "No":
+    print("Pets are amazing creatures you can bond with.")
+Variable = input("Do you have children")
+if Variable == "Yes":
+    print("How old are they")
+elif Variable == "No":
+    print("Did you not want any?")
+Variable = input("Do you have a middle name?")
+if Variable == "Yes":
+    print("What is it?")
+elif Variable == "No":
+    print("About 80% of the world has one. Your rare!")
+Variable  = input("Do you have a significant other")
+if Variable == "Yes":
+    print("I'm happy for you, do you enjoy their company.")
+elif Variable == "No":
+    print("Did you have one before?")
+Variable = input("Do you have grandchildre?")
+if Variable == "Yes":
+    print("How much!? I hear having grandchildren is amazing.")
+elif Variable == "No":
+    print("I hope you get the chance to get some one day.")
+Variable = input("Do you have a hidden talent?")
+if Variable = "Yes":
+    print("What talent!? People with hidden talents are always interesting.")
+elif Variable = "No":
+    print("Awww, its okay many people don't.")
+Variable = input("Are you a movie fan?")
+if Variable = "Yes":
+    print("What's your favorite genre?")
+elif Variable = "No":
+    print("Why not? There are a lot of entertaining movies.")
+Variable = input("Do you have a job?")
+if Variable = input("Yes"):
+    print("What's your job?")
+elif Variable = "No":
+    print("")
