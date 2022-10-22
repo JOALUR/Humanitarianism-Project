@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Variable = int(input("What time is it? ")
 if variable == ("")
 print("OK")
@@ -8,6 +9,9 @@ print("OK")
 //Remember that your staying with your children.
 //
 a = input("How was your day?")
+=======
+//When are you sleeping today?
+>>>>>>> 1eaa538dc006609deddda1a2755fa27a94050cbd
 Variable = input("Did you have a good day?")
 if Variable == "Yes":
     print("I'm glad you had a good day.")
@@ -84,6 +88,7 @@ if Variable == "Yes":
 elif Variable == "No":
     print("I hope you get the chance to get some one day.")
 Variable = input("Do you have a hidden talent?")
+<<<<<<< HEAD
 if Variable = "Yes":
     print("What talent!? People with hidden talents are always interesting.")
 elif Variable = "No":
@@ -98,3 +103,30 @@ if Variable = input("Yes"):
     print("What's your job?")
 elif Variable = "No":
     print("")
+=======
+if Variable == "Yes":
+    print("What talent!? People with hidden talents are always interesting.")
+elif Variable == "No":
+    print("Awww, its okay many people don't.")
+Variable = input("Are you a movie fan?")
+if Variable == "Yes":
+    print("What's your favorite genre?")
+elif Variable == "No":
+    print("Why not? There are a lot of entertaining movies.")
+Variable = input("Do you have a job?")
+if Variable == input"Yes":
+    print("What's your job?")
+elif Variable == "No":
+    print("Are you retired?")
+Variable = input("Do you drive")
+if Variable == input"Yes":
+    print("what car do you drive?")
+elif Variable == "No":
+    print("When did you stop driving?")
+Variable + input("Did you go to college?")
+if Variable == "Yes":
+    print("what did you study?")
+elif Variable == "No":
+    print("Did you choose not to go or you couldn't?")
+    
+>>>>>>> 1eaa538dc006609deddda1a2755fa27a94050cbd
